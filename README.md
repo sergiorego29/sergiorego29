@@ -8,7 +8,7 @@
 
 ### 🏁 About Me
 
-I enjoy exploring data telemetry, working on motorsport projects, experimenting with Python and C++, and learning along the way. I’m currently studying Computer Engineering and have experience with C, Java, OCaml, and Erlang.
+I enjoy exploring data telemetry, working on motorsport projects, experimenting with Python and C++, and learning along the way. I’m currently studying Computer Engineering and have experience with C, Java and OCaml.
 
 ---
 
