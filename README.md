@@ -18,7 +18,6 @@ I enjoy exploring data telemetry, working on motorsport projects, experimenting 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="35" alt="OCaml"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="35" alt="Erlang"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
 </p>
@@ -28,3 +27,20 @@ I enjoy exploring data telemetry, working on motorsport projects, experimenting 
 <a href="https://www.instagram.com/srego29" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ffff"></a><a href="https://x.com/srego29" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=00ffff"></a>
 
 </div>
+
+---
+
+### 🏅 Achievements
+
+<br>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/e23710da-4514-4ebe-a0a6-303ec5c4c46b" width="85" align="left" style="margin-right: 15px;">
+  <strong>Top 5 | InditexTech Challenge</strong> <br>
+  <em>HackUDC 2026</em> <br>
+  👉 <a href="https://github.com/hackudc-Inditex/hackudc">Explore the Project</a>
+</p>
+
+<br clear="left"/>
+<br>
+
+<br>
