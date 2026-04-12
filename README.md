@@ -2,13 +2,13 @@
 
 # Sergio Rego Criado
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome,+welcome!+👋;Aspiring+Computer+Engineer;Motorsport+Enthusiast+🏎️&size=30&font=Fira+Code&color=0FEEFA&center=true&vCenter=true&width=500&height=70)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome🚀;Computer+Engineering+Student;🏎️Motorsport+%26+Aerospace+Tech🌌;Building+simulations+at+high+RPM&size=24&font=Fira+Code&color=0FEEFA&center=true&vCenter=true&width=600&height=100)
 
 ---
 
 ### 🏁 About Me
 
-I enjoy exploring data telemetry, working on motorsport projects, experimenting with Python and C++, and learning along the way. I’m currently studying Computer Engineering and have experience with C, Java and OCaml.
+I’m a Computer Engineering student driven by high-performance systems. I’m now bridging the gap between motorsport telemetry and orbital mechanics. I code for speed and precision.
 
 ---
 
