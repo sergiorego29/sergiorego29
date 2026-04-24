@@ -8,7 +8,7 @@
 
 ### 🏁 About Me
 
-I’m a Computer Engineering student driven by high-performance systems. A boy dreaming of working in things that he love
+I’m a Computer Engineering student driven by high-performance systems. Chasing the dream of turning what I love into my career.
 
 ---
 
