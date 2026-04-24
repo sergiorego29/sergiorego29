@@ -8,7 +8,7 @@
 
 ### 🏁 About Me
 
-I’m a Computer Engineering student driven by high-performance systems. I’m now bridging the gap between motorsport telemetry and orbital mechanics. I code for speed and precision.
+I’m a Computer Engineering student driven by high-performance systems. A boy dreaming of working in things that he love
 
 ---
 
